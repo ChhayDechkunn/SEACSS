@@ -1,0 +1,12 @@
+image: registry.gitlab.com/pages/hugo:latest
+
+pages:
+  script:
+    - hugo --minify
+
+  artifacts:
+    paths:
+      - public
+
+  only:
+    - master  # Change this if you want to deploy from a different branch
