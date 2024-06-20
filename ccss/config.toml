@@ -1,7 +1,7 @@
 title = "Notre-Dame de Paris"
 baseURL = "https://chhaydechkunn.github.io/SEACSS/"
 languageCode = "en-us"
-theme = theme\ananke
+theme = ananke
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
