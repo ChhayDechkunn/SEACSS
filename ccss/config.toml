@@ -1,7 +1,7 @@
 title = "Notre-Dame de Paris"
-baseURL = "https://gohugo-theme-ananke.pages.dev"
+baseURL = https://chhaydechkunn.github.io/SEACSS/
 languageCode = "en-us"
-theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+theme = "ananke"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
