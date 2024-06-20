@@ -1,5 +1,5 @@
 title = "Notre-Dame de Paris"
-baseURL = https://chhaydechkunn.github.io/SEACSS/
+baseURL = "https://chhaydechkunn.github.io/SEACSS/"
 languageCode = "en-us"
 theme = "ananke"
 
