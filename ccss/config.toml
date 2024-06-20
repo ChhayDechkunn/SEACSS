@@ -1,1 +1,4 @@
+baseURL = "https://ChhayDechkunn.github.io/"
+languageCode = "en-us"
+title = "SEACSS"
 theme = "ananke"
